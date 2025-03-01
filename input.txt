@@ -1,0 +1,8 @@
+7
+6 Kemeja Barang 50000 9 Pakaian Biru Katun Pria Levis
+7 Kaos Barang 35000 12 Pakaian Merah Katun Wanita Nike
+8 Sweater Barang 70000 7 Pakaian Hitam Wool Pria Adidas
+9 Jaket Barang 85000 10 Pakaian Coklat Kulit Unisex Zara
+10 Hoodie Barang 60000 11 Pakaian Abu-abu Fleece Pria H&M
+11 Polo Barang 40000 8 Pakaian Putih Katun Pria Lacoste
+12 Dress Barang 90000 6 Pakaian Pink Sutra Wanita Gucci
